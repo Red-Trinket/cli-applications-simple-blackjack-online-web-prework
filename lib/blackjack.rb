@@ -48,10 +48,6 @@ def invalid_command
   get_user_input
 end
 
-#####################################################
-# get every test to pass before coding runner below #
-#####################################################
-
 def runner
   welcome #introduce the game
   sleep 0.75
